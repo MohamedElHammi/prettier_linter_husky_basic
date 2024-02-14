@@ -1,4 +1,4 @@
-# <center> Code formatting and linting using prettier, eslint and husky </center>
+# Code formatting and linting using prettier, eslint and husky
 
 **The Importance of Code Formatting and Linting in Software Development :**
 Code formatting and linting are essential practices for writing readable and maintainable code. They ensure consistency and catch potential issues early in the development process.
